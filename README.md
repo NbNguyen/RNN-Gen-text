@@ -1,1 +1,0 @@
-# RNN-Gen-text
